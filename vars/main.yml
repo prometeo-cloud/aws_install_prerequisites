@@ -1,0 +1,11 @@
+---
+required_packages:
+
+pip_packages:
+  - awscli
+  - boto
+  - boto3
+  - pywinrm
+
+pip_url: "https://bootstrap.pypa.io/get-pip.py"
+...
